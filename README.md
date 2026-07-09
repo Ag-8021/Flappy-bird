@@ -26,3 +26,4 @@ If you want to run or modify the Python code directly:
 Make sure you have Python 3.x and Pygame installed:
 ```bash
 pip install pygame
+ 
